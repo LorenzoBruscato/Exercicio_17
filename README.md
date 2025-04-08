@@ -10,6 +10,6 @@ engenheiro,
  programador,
  médico,
  advogado,
- designer,
+ designer
 
 Se informada opção diferente das apresentadas a profissão é DESEMPREGADO.
