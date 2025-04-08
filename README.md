@@ -6,3 +6,10 @@ Tibúrcio é <profissão>"
 
 Solicite ao usuário que informe a profissão do Tibúrcio, apresente as seguintes
 opções:
+e engenheiro
+p programador
+m médico
+a advogado
+d designer
+
+Se informada opção diferente das apresentadas a profissão é DESEMPREGADO.
